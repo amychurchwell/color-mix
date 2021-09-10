@@ -36,6 +36,8 @@
     ]
   },
   "devDependencies": {
-    "chroma-js": "^2.1.2"
-  }
+    "chroma-js": "^2.1.2",
+    "gh-pages": "^3.2.3"
+  },
+  "homepage": "https://amychurchwell.github.io/color-mix/"
 }

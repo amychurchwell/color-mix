@@ -34,6 +34,8 @@ class Calculator extends React.Component {
       return num - lch2[i];
     });
 
+    console.log(result);
+
     // lch(from hex1 -20.095281554789977, -72.33231061331429, 0.19841406746820667)
 
     this.setState({
